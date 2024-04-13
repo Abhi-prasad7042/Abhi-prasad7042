@@ -30,7 +30,7 @@ For automated number plate recognition (ANPR), I developed a system using YOLOv5
 
 ### 📫 Get in Touch
 
-I'm always open to collaboration and new opportunities! Feel free to reach out to me via email at [your.email@example.com](mailto:abhiprasad7042@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/abhishek-kumar-a06048165/)).
+I'm always open to collaboration and new opportunities! Feel free to reach out to me via email at [abhiprasad7042@gmail.com](mailto:abhiprasad7042@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/abhishek-kumar-a06048165]).
 
 Let's build something amazing together! 🌟
 
